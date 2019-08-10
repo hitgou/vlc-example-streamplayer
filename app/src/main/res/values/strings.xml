@@ -2,5 +2,6 @@
     <string name="app_name">PedroVLC</string>
     <string name="start_player">Start player</string>
     <string name="stop_player">Stop player</string>
-  <string name="yourendpoint">yourendpoint</string>
+    <string name="yourendpoint">yourendpoint</string>
+    <string name="rtmp_url">rtmp://47.106.33.6:9935/test/wxy</string>
 </resources>

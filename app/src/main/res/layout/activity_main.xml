@@ -21,6 +21,7 @@
       android:hint="@string/yourendpoint"
       android:textColor="@color/appColor"
       android:textColorHint="@color/appColor"
+      android:text="@string/rtmp_url"
       android:inputType="textUri"
       android:gravity="center"
       />
